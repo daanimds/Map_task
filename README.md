@@ -2,3 +2,5 @@
 hello
 
 [![](https://jitpack.io/v/daanimds/Map_task.svg)](https://jitpack.io/#daanimds/Map_task)
+# new friday
+[![](https://jitpack.io/v/daanimds/Map_task.svg)](https://jitpack.io/#daanimds/Map_task)
