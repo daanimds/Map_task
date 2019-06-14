@@ -36,6 +36,7 @@ public class MapsActivity extends FragmentActivity  {
         l=findViewById(R.id.frame1);
         l2=findViewById(R.id.frame2);
         b2=findViewById(R.id.btn1);
+        // TOday is friday
 
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
